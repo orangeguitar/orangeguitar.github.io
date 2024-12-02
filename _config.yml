@@ -4,6 +4,4 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://orangeguitar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: orangeguitar/orangeguitar.github.io # for github-metadata
 
-permalink: pretty
-
-remote_theme: jekyll-theme-just-the-docs
+#remote_theme: jekyll-theme-just-the-docs
