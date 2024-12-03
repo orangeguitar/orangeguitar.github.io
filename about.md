@@ -1,6 +1,6 @@
 ---
 layout: default
 title: "About"
-permalink: /about
+permalink: /
 ---
 This is an about page.
